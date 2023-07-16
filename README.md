@@ -1,4 +1,4 @@
-# Virus-dector using Python
+# Virus-detector using Python
 
 The code provides a basic implementation of a virus detector in Python. It calculates the SHA-256 hash value for each file in the specified directory and its subdirectories.
 
